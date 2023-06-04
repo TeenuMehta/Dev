@@ -1,1 +1,2 @@
 This new added fileC
+Change in File C
