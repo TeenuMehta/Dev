@@ -1,4 +1,3 @@
 This is FIle A
-Change in A
+Change in A-Simple Change for Feature Branch
 Another Change in A
-This is Squash Change
