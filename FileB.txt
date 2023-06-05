@@ -1,3 +1,2 @@
 This is File B
 Change in File B
-Second change in B
